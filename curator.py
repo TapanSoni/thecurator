@@ -119,7 +119,7 @@ async def on_member_join(member):
         alreadyInServer.append(e.replace("\n", "").split(","))
 
     # Check if the student is already in the server
-    if(studentEmail in alreadyInServer):
+    if(studentEmail in alreadyInServer[0]):
         validate = 2
 
     await member.dm_channel.send("**Validating...**")
