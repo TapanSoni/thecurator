@@ -34,7 +34,35 @@ DISCORD_TOKEN = <INSERT BOT DISCORD TOKEN HERE>
 ```
 
 ### Sample Usage
-##### Initial invite
+
+#### Initial invite
+
+*The server administrator will have to send out an initial invite to users. After using the invite link, users can begin communicating with The Curator.*
+
+##### Providing student email and student ID 
+
+*Certain information is redacted to protect Rowan University*
+
+![providing_info](Images/invite_and_providing_info.png)
+
+##### User is approved
+
+*Certain information is redacted to protect Rowan University*
+
+![approved](Images/approved.png)
+
+
+##### User is denied
+
+*Certain information is redacted to protect Rowan University*
+
+![denied](Images/denied.png)
+
+##### User is marked as a duplicate
+
+*Certain information is redacted to protect Rowan University*
+
+![imposter](Images/imposter.png)
 
 ### Contributing
 Pull requests are wellcome but I don't plan on augmenting the capabilities of this bot in the near future. If you would still like to submit a pull request, please do so. For major changes, please open an issue first to further discuss what you would like to change.
